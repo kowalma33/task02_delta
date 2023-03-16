@@ -1,6 +1,6 @@
 # task02_delta
 
-What do we want to check in our new coworker ;):
+expectations
 
 TASK:
 
