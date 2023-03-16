@@ -1,6 +1,6 @@
 # task02_delta
 
-Main
+third
 
 TASK:
 
