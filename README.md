@@ -1,14 +1,14 @@
 # task02_delta
 
-What are aour expectations?
+expectations
 
 TASK:
 
-solve following equasion
-ax^2+bx+c=0
-use function switch
-a,b,c are real numbers entered from keyboard
-for a,b,c,x1,x2 you need to round them down to 2 numbers after the coma
+-make a program that will find square from 
+ ax^2+bx+c=0
+-use function switch
+-a,b,c are real numbers entered from keyboard
+-for a,b,c,x1,x2 you need to round them down to 2 numbers after the coma
 
 
 - java skills
