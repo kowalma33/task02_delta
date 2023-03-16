@@ -1,6 +1,6 @@
 # task02_delta
 
-expectations ...
+third
 
 TASK:
 
