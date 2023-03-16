@@ -1,10 +1,10 @@
 # task02_delta
 
-What do we want to check in our new coworker ;):
+What are aour expectations?
 
 TASK:
 
-make a program that will find square from 
+solve following equasion
 ax^2+bx+c=0
 use function switch
 a,b,c are real numbers entered from keyboard
