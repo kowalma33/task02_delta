@@ -1,6 +1,6 @@
 # task02_delta
 
-first
+nowy wpis
 
 TASK:
 
