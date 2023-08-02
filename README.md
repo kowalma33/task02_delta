@@ -1,6 +1,6 @@
 # task02_delta
 
-but insirt Main
+main
 
 TASK:
 
