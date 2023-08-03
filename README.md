@@ -1,6 +1,6 @@
 # task02_delta
 
-first line
+error line on first branch to be fixed
 
 TASK:
 
