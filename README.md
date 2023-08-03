@@ -1,6 +1,6 @@
 # task02_delta
 
-first line
+main line
 
 TASK:
 
