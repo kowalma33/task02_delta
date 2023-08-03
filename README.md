@@ -1,6 +1,8 @@
 # task02_delta
 
-first
+main line
+
+new line that shoulndt be in first branch
 
 TASK:
 
